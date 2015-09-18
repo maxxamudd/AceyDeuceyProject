@@ -1,0 +1,6 @@
+D:\Programming\C#\Acey Deucey Solution\Acey Deucey Project\bin\Debug\Acey Deucey Project.exe.config
+D:\Programming\C#\Acey Deucey Solution\Acey Deucey Project\bin\Debug\Acey Deucey Project.exe
+D:\Programming\C#\Acey Deucey Solution\Acey Deucey Project\bin\Debug\Acey Deucey Project.pdb
+D:\Programming\C#\Acey Deucey Solution\Acey Deucey Project\obj\Debug\Acey Deucey Project.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Acey Deucey Solution\Acey Deucey Project\obj\Debug\Acey Deucey Project.exe
+D:\Programming\C#\Acey Deucey Solution\Acey Deucey Project\obj\Debug\Acey Deucey Project.pdb
